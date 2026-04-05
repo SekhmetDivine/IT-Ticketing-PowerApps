@@ -42,6 +42,7 @@ The goal of this project is to demonstrate practical business process automation
    - A Power Automate flow is triggered
 3. Power Automate sends an email notification with ticket details
 4. The form resets and is ready for the next submission
+5. This solution demonstrates how low-code tools can be used to integrate user interfaces with automated workflows, similar to API-driven business process automation.
 
 ---
 
